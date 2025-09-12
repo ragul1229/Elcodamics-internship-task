@@ -7,7 +7,7 @@ The task was to create a **professional and responsive webpage** based on the gi
 ## Features
 - Fully responsive **one-page design**
 - Modern and clean UI
-- Uses HTML, CSS, and optionally JavaScript for interactions.
+- Uses HTML, CSS, and optionally JavaScript for interactions
 
 ## How to View
 1. Clone the repository:
